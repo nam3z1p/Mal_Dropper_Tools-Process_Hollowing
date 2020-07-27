@@ -19,13 +19,15 @@ optional arguments:
  Mal_Dropper_Tools_v0.3.exe -M[-D]
 ```
 
+_{Div_Output}_
+
+![3](https://user-images.githubusercontent.com/38063224/88541822-59c0f380-d050-11ea-9c43-a3e036f438d3.jpg)
+
+
 _{Merge_Output}_
 
 ![2](https://user-images.githubusercontent.com/38063224/88541819-588fc680-d050-11ea-9cda-10398b4501dd.jpg)
 
-_{Div_Output}_
-
-![3](https://user-images.githubusercontent.com/38063224/88541822-59c0f380-d050-11ea-9c43-a3e036f438d3.jpg)
 
 _{Execute}_
 
