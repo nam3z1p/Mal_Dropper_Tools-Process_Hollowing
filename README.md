@@ -21,7 +21,7 @@ optional arguments:
 
 _{Output_Mal}_
 
-![1](https://user-images.githubusercontent.com/38063224/83935310-687aef00-a7f3-11ea-9c62-78bc71bb1342.jpg)
+![1](https://user-images.githubusercontent.com/38063224/88541071-229e1280-d04f-11ea-976a-369e29453eee.jpg)
 
 _{Execute}_
 
