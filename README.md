@@ -5,11 +5,11 @@ Mal_Dropper_Tools-Process_Hollowing is an open source tool, primarily aimed to p
 How to:
 
 ```
-usage: Mal_Dropper_Tools_v0.2.exe -M[-D]
+usage: Mal_Dropper_Tools_v0.3.exe -M[-D]
 
 optional arguments:
   -M                               Files Merge Mode
-  -D                               Files Distribution Mode
+  -D                               Files Div Mode
 
 ```                   
 
