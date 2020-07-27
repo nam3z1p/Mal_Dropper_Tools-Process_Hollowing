@@ -1,5 +1,6 @@
 # Mal_Dropper_Tools-Process_Hollowing
 Mal_Dropper_Tools-Process_Hollowing is an open source tool, primarily aimed to penetration testers and developers. It can be used from a Windows.
+This is just a sample code to study Windows PE Format.
 
 # Usage
 How to:
