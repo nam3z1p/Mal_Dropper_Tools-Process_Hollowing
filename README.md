@@ -16,7 +16,7 @@ optional arguments:
 # Examples:
 
 ```
- Mal_Dropper_Tools_v0.2.exe -M[-D]
+ Mal_Dropper_Tools_v0.3.exe -M[-D]
 ```
 
 _{Output_Mal}_
